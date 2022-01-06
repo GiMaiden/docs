@@ -1,4 +1,4 @@
----
+---<button>
 title: Managing data use settings for your private repository
 intro: 'To help {% data variables.product.product_name %} connect you to relevant tools, people, projects, and information, you can configure data use for your private repository.'
 redirect_from:
